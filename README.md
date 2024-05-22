@@ -1,16 +1,16 @@
-# chef_app
 
-A new Flutter project.
+# Chef App
+An application that aims to help all chefs add their distinctive meals through the application and mange their profile
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##  Screenshots
+[splash and change lang](https://github.com/AyaNasserEzat/chef-app/blob/master/screenshots/splash.jpeg?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[signup and signin](https://github.com/AyaNasserEzat/chef-app/blob/master/screenshots/sign.jpeg?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[forgetPasswrd](https://github.com/AyaNasserEzat/chef-app/blob/master/screenshots/forgetPasswrd.jpeg?raw=true)
+
+[profileDetails and edit it](https://github.com/AyaNasserEzat/chef-app/blob/master/screenshots/profileDetails.jpeg?raw=true)
+
+[mange profile]
