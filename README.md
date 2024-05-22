@@ -15,5 +15,5 @@ An application that aims to help all chefs add their distinctive meals through t
 
 !![profileDetails and edit it](https://github.com/AyaNasserEzat/chef-app/blob/master/screenshots/profileDetails.jpeg?raw=true)
 
-[mange profile](https://github.com/AyaNasserEzat/chef-app/blob/master/screenshots/mangeProfie.jpeg?raw=true)
+![mange profile](https://github.com/AyaNasserEzat/chef-app/blob/master/screenshots/mangeProfie.jpeg?raw=true)
 
