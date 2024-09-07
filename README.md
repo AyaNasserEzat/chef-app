@@ -2,7 +2,9 @@
 # Chef app
 
 An application that aims to help all chefs add their distinctive meals through the application and mange profile
+# Vedieo
 
+https://github.com/user-attachments/assets/0f667733-58f3-461a-81dd-4e2b5ce161f2
 
 ## Screenshots
 
